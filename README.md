@@ -88,3 +88,5 @@ A list of beginners projects, specifically made for Python learners taking steps
 - https://github.com/karan/Projects
 - Projects in order of difficulty: https://github.com/jorgegonzalez/beginner-projects?tab=readme-ov-file#99-bottles
 - https://www.reddit.com/r/learnpython/comments/11ceino/best_projects_for_a_beginner_to_learn_and_develop/
+- More Challenging/Intersting Projects: https://github.com/practical-tutorials/project-based-learning#python
+- Big Book of Small Python Projects: https://inventwithpython.com/bigbookpython/
